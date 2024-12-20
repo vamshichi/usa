@@ -45,7 +45,7 @@ export default function Home() {
       15th and 16th of February
     </p>
     <p className="text-white text-xl sm:text-2xl md:text-3xl font-semibold">
-    scattle venue Coast Hotel 116,
+    Scattle Venue Coast Hotel 116,
     Bellevue WA 98004,USA
     </p>
     <p className="text-white text-xl sm:text-2xl md:text-3xl font-semibold">
