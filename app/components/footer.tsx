@@ -43,19 +43,19 @@ const Footer = () => {
                 <Facebook size={24} />
                 <span className="sr-only">Facebook</span>
               </Link>
-              <Link href="#" className="hover:text-gray-300">
+              <Link href="https://www.linkedin.com/company/78820778/admin/feed/posts/" className="hover:text-gray-300">
                 <Linkedin size={24} />
                 <span className="sr-only">LinkedIn</span>
               </Link>
-              <Link href="#" className="hover:text-gray-300">
+              <Link href="https://www.instagram.com/maxpoexhibitions/" className="hover:text-gray-300">
                 <Instagram size={24} />
                 <span className="sr-only">Instagram</span>
               </Link>
-              <Link href="https://x.com/maxpoae" className="hover:text-gray-300">
+              <Link href="https://twitter.com/maxpoae" className="hover:text-gray-300">
                 <Twitter size={24} />
                 <span className="sr-only">Twitter</span>
               </Link>
-              <Link href="#" className="hover:text-gray-300">
+              <Link href="https://www.youtube.com/@maxpoexhibitions" className="hover:text-gray-300">
                 <Youtube size={24} />
                 <span className="sr-only">YouTube</span>
               </Link>
