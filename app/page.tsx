@@ -40,13 +40,19 @@ export default function Home() {
     />
     <p className="text-white text-xl sm:text-2xl md:text-4xl font-bold">
       USA
-    </p>
-    <p className="text-blue-700 text-xl sm:text-2xl md:text-3xl font-semibold pb-4">
+    </p><br></br>
+    <p className="text-yellow-500 text-xl sm:text-2xl md:text-3xl font-semibold pb-4">
       15th and 16th of February
     </p>
     <p className="text-white text-xl sm:text-2xl md:text-3xl font-semibold">
-    Scattle Venue Coast Hotel 116,
-    Bellevue WA 98004,USA
+    Seattle Venue Coast Hotel 116,
+    Bellevue WA 98004
+    </p><br></br><hr></hr>
+    <p className="text-yellow-500 text-xl sm:text-2xl md:text-3xl font-semibold pb-4">
+      22nd and 23rd of February
+    </p>
+    <p className="text-white text-xl sm:text-2xl md:text-3xl font-semibold">
+    Santa Clara ICC Center Milpitas California
     </p>
     <p className="text-white text-xl sm:text-2xl md:text-3xl font-semibold">
       Manama
