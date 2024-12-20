@@ -4,7 +4,7 @@ import Image from 'next/image'
 // import RegistrationForm from "./components/ui/RegistrationForm"
 import ExhibitionDetails from "@/app/components/ExhibitionDetails"
 import bgImage from "@/app/images/3x.jpg"
-import logo from "@/app/images/Display logo png blue 1.png"
+import logo from "@/app/images/white logo.png"
 import ExhibitorForm from './components/exhibitor'
 // import GoogleAnalytics from './components/Gads'
 // import FacebookComponent from './components/FacebookAds'
